@@ -1,0 +1,8 @@
+{
+  "name": "Remix TikTok Live Auction Studio",
+  "description": "Real-time TikTok Live auction system with live gift tracking, OBS transparent overlay, vouch verification, and TikTok Live API connector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
